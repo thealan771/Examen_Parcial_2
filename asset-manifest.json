@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Examen_Parcial_2/static/css/main.f855e6bc.css",
+    "main.js": "/Examen_Parcial_2/static/js/main.c300f083.js",
+    "static/js/453.d12518db.chunk.js": "/Examen_Parcial_2/static/js/453.d12518db.chunk.js",
+    "static/media/alumno.png": "/Examen_Parcial_2/static/media/alumno.fc2f4854923bd86044e7.png",
+    "index.html": "/Examen_Parcial_2/index.html",
+    "main.f855e6bc.css.map": "/Examen_Parcial_2/static/css/main.f855e6bc.css.map",
+    "main.c300f083.js.map": "/Examen_Parcial_2/static/js/main.c300f083.js.map",
+    "453.d12518db.chunk.js.map": "/Examen_Parcial_2/static/js/453.d12518db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c300f083.js"
+  ]
+}
